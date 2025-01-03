@@ -22,6 +22,7 @@ https://github.com/SagerNet/sing-box/releases
 PowerShell -Command "Start-Process -FilePath 'C:\Users\xxx\Desktop\sing-box\sing-box.exe' -ArgumentList 'run', '-c', 'C:\Users\xxx\Desktop\sing-box\config.json' -Verb RunAs -WindowStyle Hidden"
 ```
 'C:\Users\xxx\Desktop\sing-box\sing-box.exe'
+
 'C:\Users\xxx\Desktop\sing-box\config.json'
 
 按实际情况修改
