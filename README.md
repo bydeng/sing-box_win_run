@@ -16,14 +16,14 @@ https://github.com/SagerNet/sing-box/releases
 ```
 ### 后台运行
 - 新建文本输入以下命令
+
 ```
 :: 切换到 PowerShell 并执行命令
 PowerShell -Command "Start-Process -FilePath 'C:\Users\xxx\Desktop\sing-box\sing-box.exe' -ArgumentList 'run', '-c', 'C:\Users\xxx\Desktop\sing-box\config.json' -Verb RunAs -WindowStyle Hidden"
 ```
-下面两个按实际情况修改路径
-```
 'C:\Users\xxx\Desktop\sing-box\sing-box.exe'
 'C:\Users\xxx\Desktop\sing-box\config.json'
-```
+
+按实际情况修改
 保存后修改后缀名成xxx.bat
 第一次运行会弹出提示
