@@ -3,7 +3,9 @@
 ## 安装singbox
 1、singbox下载地址
 https://github.com/SagerNet/sing-box/releases
+
 2、下载后解压到桌面，将解压文件夹修改成“sing-box”
+
 3、将config.json放到sing-box文件夹
 
 ## 运行singbox
